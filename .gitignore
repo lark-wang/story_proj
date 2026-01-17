@@ -1,0 +1,17 @@
+# Virtual environment
+story_proj/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
