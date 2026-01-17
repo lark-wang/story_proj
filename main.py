@@ -5,9 +5,8 @@ import re
 """
 Before submitting the assignment, describe here in a few sentences what you would have built next if you spent 2 more hours on this project:
 
-A natural next step would be to collect user feedback to learn preferences. Bedtime stories have a lot 
-of flexibility in terms of themes, story arc, style, etc., so learning what users like to better adapt the prompts and output would 
-be helpful in generating a story more suited to the user's thematic or aesthetic taste. 
+A natural next step would be to collect user feedback over time to learn the user's thematic and/or aesthetic taste and better tailor the stories 
+to their preferences. Bedtime stories have a lot of flexibility in terms of themes, story arc, style, etc., so learning what users like more generally would be helpful. 
 """
 
 def call_model(prompt: str, max_tokens=3000, temperature=0.1) -> str:
