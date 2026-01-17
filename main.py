@@ -7,7 +7,7 @@ Before submitting the assignment, describe here in a few sentences what you woul
 
 I would build a system to collect user feedback on the final story to learn preferences. Bedtime stories have a lot 
 of flexibility in terms of themes, story arc, style, etc., so learning what users like to better adapt the prompts would 
-be helpful in generating a story more suited to the user's taste. An alternative could be to have a more detailed story request input form. 
+be helpful in generating a story more suited to the user's taste. 
 """
 
 def call_model(prompt: str, max_tokens=3000, temperature=0.1) -> str:
