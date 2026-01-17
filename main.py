@@ -5,7 +5,7 @@ import re
 """
 Before submitting the assignment, describe here in a few sentences what you would have built next if you spent 2 more hours on this project:
 
-I would build a system to collect user feedback on the final story to learn preferences. Bedtime stories have a lot 
+A natural next step would be to collect user feedback to learn preferences. Bedtime stories have a lot 
 of flexibility in terms of themes, story arc, style, etc., so learning what users like to better adapt the prompts would 
 be helpful in generating a story more suited to the user's thematic or aesthetic taste. 
 """
