@@ -1,6 +1,6 @@
 ```text
 
-Block diagram:
+Block diagram for program:
 
 User Input 
 │
