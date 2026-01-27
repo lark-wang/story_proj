@@ -1,6 +1,6 @@
 ```text
 
-Block diagram for program generating bedtime stories (take-home assignment for interview process):
+Block diagram for program to generate bedtime stories (take-home assignment for interview process):
 
 User Input 
 │
