@@ -1,9 +1,9 @@
 ```text
 
-# Iterative Prompting Pipeline for Story Generation
-*Take-home assignment for an interview process*
+Iterative Prompting Pipeline for Story Generation
+(Take-home assignment for an interview process)
 
-**Pipeline Overview:**
+Pipeline Overview:
 
 User Input 
 │
