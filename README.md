@@ -1,6 +1,9 @@
 ```text
 
-Block diagram for program to generate bedtime stories (take-home assignment for interview process):
+# Iterative Prompting Pipeline for Story Generation
+*Take-home assignment for an interview process*
+
+**Pipeline Overview:**
 
 User Input 
 │
