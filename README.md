@@ -1,6 +1,6 @@
 ```text
 
-Block diagram for program:
+Block diagram for program (take-home assignment for interview process):
 
 User Input 
 │
